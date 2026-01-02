@@ -1,17 +1,22 @@
-<div style="width: 480px; margin: auto; text-align: center;">
-    <img src="/logo.png" alt="Google Hack Search logo"/>
-    <p>
+<table align="center">
+<tr>
+    <td align="center" width="600">
+    <img src="logo.png" alt="Google Hack Search logo" width="480" />
+    <br/><br/>
+    <em>
         Google Hack Search is a regular Google search engine with limited scope dedicated solely to IT security stuff. Over 230 sources.
-        <br/>
-        <br/>
+        <br/><br/>
         No AI, no marketing, no bloat.
-    </p>
+    </em>
+    <br/><br/>
     <strong>
         <a href="https://cse.google.com/cse?cx=5386f5d4187d84ac9">
-            https://cse.google.com/cse?cx=5386f5d4187d84ac9
+        https://cse.google.com/cse?cx=5386f5d4187d84ac9
         </a>
     </strong>
-</div>
+    </td>
+</tr>
+</table>
 
 ### How does it work?
 
