@@ -232,3 +232,4 @@ blog.axelarator.net/*
 blog.doyensec.com/*
 gynvael.coldwind.pl/*
 j00ru.vexillium.org/*
+blog.compass-security.com/*
